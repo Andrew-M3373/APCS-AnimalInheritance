@@ -3,6 +3,7 @@ public class Penguin extends Bird {
 	
 	public Penguin() {
 		name = "penguin";
+		food = "fish";
 	}
 
 	public void makesNoise()

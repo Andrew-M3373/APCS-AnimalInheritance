@@ -3,6 +3,7 @@ public class Bat extends Mammal{
 
 	public Bat() {
 		name = "bat";
+		food = "insects";
 	}
 
 	public void makesNoise()
